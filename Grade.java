@@ -1,8 +1,7 @@
-package Task_1;
 
 import java.util.Scanner;
 
-public class Grade {
+ class Grade {
     public static void main(String args[]) { 
 	int sub=0;
 	System.out.println("Enter the number of subjects : ");
