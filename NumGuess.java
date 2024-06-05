@@ -1,8 +1,8 @@
-package Task_1;
+
 import java.util.Scanner;
 import java.util.Random;
 
-public class NumGuess {
+ class NumGuess {
 	public static void main(String args[]) {	
 		Random r=new Random();
 		Scanner in = new Scanner(System.in);
